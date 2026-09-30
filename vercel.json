@@ -1,0 +1,13 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    { "source": "/:id(\\d+)", "destination": "/metadata/:id.json" },
+    { "source": "/api/meta/chubbicorn/:id(\\d+)", "destination": "/metadata/:id.json" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [{ "key": "Access-Control-Allow-Origin", "value": "*" }]
+    }
+  ]
+}

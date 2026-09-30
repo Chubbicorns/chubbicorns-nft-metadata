@@ -1,0 +1,19 @@
+{
+  "name": "Chubbicorn 168",
+  "description": "We're a stable of 250 chubbicorns, we like to eat sparkles, jpegs, fast food and rainbows.",
+  "image": "https://metadata.chubbicorns.com/images/168.png",
+  "attributes": [
+    {
+      "trait_type": "head",
+      "value": "newsboy hat"
+    },
+    {
+      "trait_type": "body",
+      "value": "bowtie"
+    },
+    {
+      "trait_type": "expression",
+      "value": "wink"
+    }
+  ]
+}
