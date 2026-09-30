@@ -1,0 +1,1 @@
+# chubbicorns-nft-metadata
